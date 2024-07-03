@@ -14,7 +14,7 @@ const Portfolio = () => {
         image:p1,
         title:"FoodStore",
         github:"https://github.com/shobhitk98/React-Food-Store",
-        demo:"foodstoreproject.netlify.app",
+        demo:"https://foodstoreproject.netlify.app",
     },
     {
         id:2,
@@ -35,7 +35,7 @@ const Portfolio = () => {
         image:p4,
         title:"Ecommerce Store",
         github:"https://github.com/shobhitk98/Mens-store-project",
-        demo:"https://shooppiestore.netlify.app",
+        demo:"https://shobhitk98.github.io/Mens-store-project/",
     },
  ];
 
